@@ -1,1 +1,2 @@
 wiznote/wizserver:latest
+ubuntu:latest
